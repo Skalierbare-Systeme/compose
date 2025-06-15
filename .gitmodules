@@ -1,0 +1,18 @@
+[submodule "Dictionary"]
+	path = Dictionary
+	url = git@github.com:Skalierbare-Systeme/Dictionary.git
+[submodule "Product"]
+	path = Product
+	url = git@github.com:Skalierbare-Systeme/Product.git
+[submodule "Media"]
+	path = Media
+	url = git@github.com:Skalierbare-Systeme/Media.git
+[submodule "Scanner"]
+	path = Scanner
+	url = git@github.com:Skalierbare-Systeme/Scanner.git
+[submodule "User"]
+	path = User
+	url = git@github.com:Skalierbare-Systeme/User.git
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:Skalierbare-Systeme/Frontend.git
