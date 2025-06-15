@@ -1,0 +1,7 @@
+include:
+  - ./Frontend/compose.yml
+  - ./Dictionary/compose.yml
+  - ./Media/compose.yml
+  - ./Product/compose.yml
+  - ./Scanner/compose.yml
+  - ./User/compose.yml
