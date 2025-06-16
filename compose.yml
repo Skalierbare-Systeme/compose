@@ -1,7 +1,7 @@
 include:
-  - ./Frontend/compose.yml
-  - ./Dictionary/compose.yml
-  - ./Media/compose.yml
-  - ./Product/compose.yml
-  - ./Scanner/compose.yml
-  - ./User/compose.yml
+  - ./Frontend/compose.yaml
+  - ./Dictionary/compose.yaml
+  - ./Media/compose.yaml
+  - ./Product/compose.yaml
+  - ./Scanner/compose.yaml
+  - ./User/compose.yaml

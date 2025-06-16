@@ -1,18 +1,24 @@
 [submodule "Dictionary"]
 	path = Dictionary
 	url = git@github.com:Skalierbare-Systeme/Dictionary.git
+	branch = main
 [submodule "Product"]
 	path = Product
 	url = git@github.com:Skalierbare-Systeme/Product.git
+	branch = main
 [submodule "Media"]
 	path = Media
 	url = git@github.com:Skalierbare-Systeme/Media.git
+	branch = main
 [submodule "Scanner"]
 	path = Scanner
 	url = git@github.com:Skalierbare-Systeme/Scanner.git
+	branch = main
 [submodule "User"]
 	path = User
 	url = git@github.com:Skalierbare-Systeme/User.git
+	branch = main
 [submodule "Frontend"]
 	path = Frontend
 	url = git@github.com:Skalierbare-Systeme/Frontend.git
+	branch = main
